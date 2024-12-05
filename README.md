@@ -14,7 +14,7 @@
 ![](images/usecase2.png?raw=true)
 
 <br>
-
+<img width="376" alt="img" src="https://github.com/user-attachments/assets/484fcce4-04e2-4c0f-9394-5e5dc376561e">
 ## Dataset:
 [FLICKR_8K](https://forms.illinois.edu/sec/1713398).
 This dataset includes around 1500 images along with 5 different captions written by different people for each image. The images are all contained together while caption text file has captions along with the image number appended to it. The zip file is approximately over 1 GB in size.
